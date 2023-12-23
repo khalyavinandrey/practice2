@@ -1,0 +1,26 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.7",
+    "@types/ramda": "^0.29.7",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.8"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "p-limit": "^5.0.0",
+    "ramda": "^0.29.1"
+  }
+}
