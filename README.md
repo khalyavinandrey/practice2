@@ -7,4 +7,4 @@ npm i
 
 npm run build
 ```
-3. Скопировать скомпилированный js скрипт из директории dist/assets
+3. Скопировать скомпилированный js скрипт из директории dist/assets и вставить в консоль разработчика в браузере на сайте https://wiki.musicbrainz.org/MusicBrainz_API
